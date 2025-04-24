@@ -4,7 +4,7 @@ airpullution collecter
 
 ## Description
 
-![Data Pipeline Diagram](flowchart_data_pipeline.png "Data Pipeline Overview")
+![Data Pipeline Diagram](weather_data_pipeline.png "Data Pipeline Overview")
 
 ## Getting Started
 
